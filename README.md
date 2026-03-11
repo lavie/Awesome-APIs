@@ -291,6 +291,7 @@ latitude/longitude, and text search based upon categories, address, city, provin
 - [LinkedIn](http://developer.linkedin.com/apis) - Enables apps to connect to user accounts, data, connections,groups, communications, and social streams.
 - [Facebook](https://developers.facebook.com/) - For ads, games, payments, login, sharing stats, and user data.
 - [Twitter](https://dev.twitter.com/) - Enables an app to interact with most of Twitter’s functions.
+- [Xquik](https://docs.xquik.com) - X (Twitter) automation API for tweet search, user lookup, follower extraction, engagement metrics, giveaway draws, trending topics, write actions and webhooks.
 - [Pinterest](https://developers.pinterest.com/api_docs/) - Enables apps to view the most clicked-through or repinned Pins, view related posts, and user profiles.
 - [Tumblr](https://www.tumblr.com/docs/en/api/v2) - Create new ways to use Tumblr with access to content, likes, followers, and drafts.
 - [FourSquare](https://developer.foursquare.com/) - Access to FourSquare database and ability to interact with Foursquare users.
