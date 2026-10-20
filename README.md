@@ -274,6 +274,9 @@ APIs
 - [Datum Box](http://www.datumbox.com/machine-learning-api/) - Datumbox offers a powerful open-source Machine Learning Framework written in Java. ![Open Source](https://raw.githubusercontent.com/Abhishaker17/Awesome-APIs/master/opensource.png?token=AH5Y2imVR5ukgG9533IEqXnP-RJWxVJQks5W4PuNwA%3D%3D "Open Source")
 - [Wit AI](https://wit.ai/) - Provides an intent-based NLP API to easily build text and audio based chat bots. ![Open Source](https://raw.githubusercontent.com/Abhishaker17/Awesome-APIs/master/opensource.png?token=AH5Y2imVR5ukgG9533IEqXnP-RJWxVJQks5W4PuNwA%3D%3D "Open Source")
 
+### Screenshot
+- [ScreenshotRun](https://screenshotrun.com) - Screenshot API for developers. Capture any webpage as PNG, JPEG, WebP, or PDF via REST API. Supports full-page capture, geolocation, ad blocking, and Retina rendering. Free tier available.
+
 ### Placeholder Images
 
 - [PlaceKitten](https://placekitten.com/) - A quick and simple service for getting pictures of kittens for use as placeholders in your designs or code.  
